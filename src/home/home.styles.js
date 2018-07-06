@@ -31,6 +31,7 @@ export const HomeStyle = {
     fontSize: 30,
     fontWeight:500,
     '@media (max-width: 450px) ':{
+      fontSize: 20,
       width:'100%',
     },
   },
