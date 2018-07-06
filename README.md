@@ -31,4 +31,4 @@ This project use Material UI
 [Material UI](https://material-ui.com/)
 
 ## Great!!
-> iofullstack &copy;2018
+> josechirinos &copy;2018 [josechirinos.com](http://josechirinos.com)
