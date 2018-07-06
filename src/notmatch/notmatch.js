@@ -1,5 +1,4 @@
 import React from 'react';
-import './notmatch.css';
 
 const NotMatch = (props)=>(
   <div>
